@@ -1,7 +1,7 @@
 <h1 align="center">Hey there👋 . Vinay here</h1>
 <h3 align="center">Machine Learning and Data Science</h3>
 
-- 🔭 I’m currently working on **Energy Consumption Prediction for Smart Buildings**
+- 🔭 I’m currently working on **Customer churn prediction 2.0**
 
 - 🌱 I’m currently learning **Supervised Learning, Linear Regression, and Data Preprocessing**
 
