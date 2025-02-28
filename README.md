@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Customer churn prediction 2.0**
 
-- 🌱 I’m currently learning **Supervised Learning, Linear Regression, and Data Preprocessing**
+- 🌱 I’m currently learning **MLops (mlflow, dvc, zenml, dcoker, cloud deployment,)**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science projects in Healthcare, Finance, and Recommendation Systems**
+- 👯 I’m looking to collaborate on **Machine Learning and Data Science projects in Healthcare, Finance, and Recommendation Systems (End to End )**
 
-- 🤝 I’m looking for help with **Building advanced supervised learning models and handling real-world datasets**
+- 🤝 I’m looking for help with **Building advanced End to End Realwordl Projects**
 
 - 💬 Ask me about **Machine Learning, Data Science, Personal Finance, Entrepreneurship**
 
