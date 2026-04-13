@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-kanuku&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-kanuku" /> </p>
 
-- 🔭 I’m currently working on [Network_Security_End_to_End_ML](https://github.com/Vinay-kanuku/Network_Security_End_to_End)
+
 
 - 🌱 I’m currently learning **Machine Learning , MLOps Tools, Docker, Ubuntu automation with Zsh scripts, DSA (Trees, Graphs, Dynamic Programming), Production-grade ML systems, Git, and system design**
 
