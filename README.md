@@ -11,7 +11,6 @@
 
 - 🤝 I’m looking for help with **How to bridge the gap between ML experimentation and real-world deployment — building workflows that actually ship.**
 
-- 👨‍💻 All of my projects are available at [https://www.vinaydev.tech/](https://www.vinaydev.tech/)
 
 - 💬 Ask me about **ML pipelines, MLOps tools, Customizing Ubuntu for dev productivity,**
 
